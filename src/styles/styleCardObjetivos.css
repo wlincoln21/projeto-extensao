@@ -1,0 +1,36 @@
+.containerObjetivos {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    background-color: aliceblue;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.containerObjetivos h2 {
+    font-size: 20px;
+}
+
+.containerObjetivos p {
+    min-height: 150px;
+    word-spacing: 1px;
+}
+
+.containerObjetivos button {
+    background-color: cadetblue;
+    font-size: 16px;
+    padding: 10px;
+    color: #f1f1f1;
+    border-style: none;
+    border-radius: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.containerObjetivos img {
+    width: 300px;
+    height: 200px;
+    border-radius: 20px;
+}
